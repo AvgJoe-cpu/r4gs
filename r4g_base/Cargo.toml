@@ -1,0 +1,8 @@
+[package]
+name = "r4g_base"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+rust-version.workspace = true
+
+[dependencies]
