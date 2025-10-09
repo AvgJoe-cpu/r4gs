@@ -9,7 +9,6 @@ license = "MIT"
 rust-version = "1.80"
 
 [workspace.dependencies]
-
 r4g_base = { path = "r4g_base" }
 
 [profile.dev]
